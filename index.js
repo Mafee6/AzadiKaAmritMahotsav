@@ -1,3 +1,5 @@
+((() => {
+
 const text = document.querySelector(".text");
 const textH = document.querySelector(".text h");
 const texts = [
@@ -76,3 +78,5 @@ let loop = () => {
 };
 
 setInterval(loop, 35);
+
+}))();
