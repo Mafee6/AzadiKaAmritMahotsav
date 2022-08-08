@@ -1,2 +1,2 @@
-# AajadiKaAmrutMahotsav
+# AzadiKaAmritMahotsav
 Namaste. 🇮🇳
