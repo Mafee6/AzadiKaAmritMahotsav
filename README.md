@@ -1,2 +1,2 @@
 # AzadiKaAmritMahotsav
-Namaste. 🇮🇳
+Namaste! 🇮🇳
