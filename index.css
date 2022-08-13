@@ -20,8 +20,10 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: clip;
-    background-color: rgb(34, 34, 34);
     user-select: none;
+    font-size: "Calibri", sans-serif;
+    background: rgb(244,149,28);
+    background: linear-gradient(142deg, rgba(244,149,28,1) 10%, rgba(255,255,255,1) 50%, rgba(2,163,80,1) 90%); 
     margin: 0;
 }
 
@@ -57,13 +59,14 @@ body {
 
 .text {
     font-size: 4em;
-    color: white;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     width: 100vw;
     height: 100vh;
+    font-weight: 600;
 }
 
 .text h {
